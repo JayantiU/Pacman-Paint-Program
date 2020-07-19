@@ -1,4 +1,4 @@
-# PaintProgram-
+# PaintProgram
 Paint program for ICS3U midterm 
 
 Created with pygame module in python 
